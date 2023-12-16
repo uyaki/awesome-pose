@@ -72,11 +72,13 @@ Amazing tools, websites, links, apps, software
 
 ## software
 
+- 密码管理：[bitwarden](https://bitwarden.com/)
 - 解压工具：[7-zip](https://www.7-zip.org/)
 - 软件卸载：[geekuninstaller](https://geekuninstaller.com/download)
 - 截图，比snipaste更强的pixpin：[pixpinapp](https://pixpinapp.com/)
 - 屏幕亮度调整：[twinkle-tray](https://github.com/xanderfrangos/twinkle-tray)
 - 图床PicGo[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
+- 录屏软件：[screentogif](https://www.screentogif.com/)
 - 电脑系统优化神器：[hellzerg/optimizer](https://github.com/hellzerg/optimizer)
 - window剪切板增强：[hluk/CopyQ](https://github.com/hluk/CopyQ)
 - 跨平台文件互传：[RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
