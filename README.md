@@ -72,6 +72,7 @@ Amazing tools, websites, links, apps, software
 
 ## software
 
+- 解压工具：[7-zip](https://www.7-zip.org/)
 - 截图，比snipaste更强的pixpin：[pixpinapp](https://pixpinapp.com/)
 - 屏幕亮度调整：[twinkle-tray](https://github.com/xanderfrangos/twinkle-tray)
 - 电脑系统优化神器：[hellzerg/optimizer](https://github.com/hellzerg/optimizer)
