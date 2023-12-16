@@ -76,10 +76,8 @@ Amazing tools, websites, links, apps, software
 - 解压工具：[7-zip](https://www.7-zip.org/)
 - 软件卸载：[geekuninstaller](https://geekuninstaller.com/download)
 - 截图，比snipaste更强的pixpin：[pixpinapp](https://pixpinapp.com/)
-- 屏幕亮度调整：[twinkle-tray](https://github.com/xanderfrangos/twinkle-tray)
 - 图床PicGo[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
 - 录屏软件：[screentogif](https://www.screentogif.com/)
-- 电脑系统优化神器：[hellzerg/optimizer](https://github.com/hellzerg/optimizer)
 - window剪切板增强：[hluk/CopyQ](https://github.com/hluk/CopyQ)
 - 跨平台文件互传：[RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
 > 注意： 本地部署时，`docker-compose up -d` 如遇到 `exec /mnt/openssl/create.sh: no such file or directory` 错误，可能是`docker/openssl/create.sh` 克隆时，行结尾变成CRLF的问题，行结尾从CRLF改为LF即可成功
@@ -87,6 +85,12 @@ Amazing tools, websites, links, apps, software
 - Github最新的 hosts 更新订阅[521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)
 - drowio桌面版[jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)
 - 脑图桌面版[NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
+
+## system
+
+- 独立音量调整：[EarTrumpet](https://eartrumpet.app/)
+- 屏幕亮度调整：[twinkle-tray](https://github.com/xanderfrangos/twinkle-tray)
+- 电脑系统优化神器：[hellzerg/optimizer](https://github.com/hellzerg/optimizer)
 
 ## tools
 
