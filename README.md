@@ -10,7 +10,7 @@ Amazing tools, websites, links, apps, software
 
 ## website
 
-| Function | Website  | Other｜
+| Function | Website  | Other|
 |---|---|:---:|
 |Jetbrains开源申请|[官方地址](https://www.jetbrains.com/shop/eform/opensource?product=ALL) |[教程](jetbrains/opensource.md)|
 |github免费书籍|[free-programming-books-zh](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)|-|
