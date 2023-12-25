@@ -88,3 +88,17 @@ Amazing tools, websites, links, apps, software
 | [autojump](https://github.com/wting/autojump) | 快速跳转 |
 | [tmux](https://github.com/tmux/tmux)| 窗口管理 |
 | [hugo](https://gohugo.io/)| blog建站 |
+
+## Edge Extensions
+| Extensions  | Function  |
+|---|---|
+| [沉浸式翻译](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-pdf%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) | 沉浸式翻译 |
+| [划词翻译](https://microsoftedge.microsoft.com/addons/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/oikmahiipjniocckomdccmplodldodja?hl=zh-CN) | 划词翻译 |
+| [Adblock Plus](https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh?hl=zh-CN)| 广告拦截器 |
+| [超级复制](https://microsoftedge.microsoft.com/addons/detail/supercopy-%E8%B6%85%E7%BA%A7%E5%A4%8D%E5%88%B6/nhiheekdcnmfbapkmpbhmplfddenhjic?hl=zh-CN)| 解除禁止复制 |
+|[Bitwarden](https://microsoftedge.microsoft.com/addons/detail/bitwarden-%E5%85%8D%E8%B4%B9%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8/jbkfoedolllekgbhcbcoahefnbanhhlh?hl=zh-CN)|密码管理器|
+|[一键切换](https://microsoftedge.microsoft.com/addons/detail/%E4%B8%80%E9%94%AE%E5%88%87%E6%8D%A2/jijkhdficgnnikdijnkienfnmfbolmpb)|一键切换搜索引擎|
+|[Octotree](https://microsoftedge.microsoft.com/addons/detail/octotree-github-code-tr/joagmknfcgpikbadjkaikmnhpjadihjg)|github左侧结构树|
+|[Scroll To Top Button](https://microsoftedge.microsoft.com/addons/detail/scroll-to-top-button/dobeplcigkjlbajngcgnndecohjkjmia)|一键直达网页顶部|
+|[网页截图](https://microsoftedge.microsoft.com/addons/detail/%E6%8D%95%E6%8D%89%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE-fireshot%E7%9A%84/fcbmiimfkmkkkffjlopcpdlgclncnknm)|网页截图|
+|[音量控制](https://microsoftedge.microsoft.com/addons/detail/%E9%9F%B3%E9%87%8F%E6%8E%A7%E5%88%B6/kpkidbhdljfmeblnolabgikdmfefgbmc)|网页音量控制|
