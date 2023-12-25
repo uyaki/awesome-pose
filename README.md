@@ -77,6 +77,7 @@ Amazing tools, websites, links, apps, software
 | [EarTrumpet](https://eartrumpet.app/) | 独立音量调整 |❌|✅|
 | [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | 屏幕亮度调整 |❌|✅|
 | [hellzerg/optimizer](https://github.com/hellzerg/optimizer) | 电脑系统优化神器 |❌|✅|
+| [RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) | 关闭多余内存占用 |❌|✅|
 
 > 注意： snapdrop 本地部署时，`docker-compose up -d` 如遇到 `exec /mnt/openssl/create.sh: no such file or directory` 错误，可能是`docker/openssl/create.sh` 克隆时，行结尾变成CRLF的问题，行结尾从CRLF改为LF即可成功
 
