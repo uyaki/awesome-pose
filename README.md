@@ -86,13 +86,13 @@ Amazing tools, websites, links, apps, software
 ## Edge Extensions
 | Extensions  | Function  |
 |---|---|
-| <img src="images/沉浸式翻译.ico" width="16" heigth="16"></img> [沉浸式翻译](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-pdf%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) | 沉浸式翻译 |
-| <img src="images/划词翻译.ico" width="16" heigth="16"></img> [划词翻译](https://microsoftedge.microsoft.com/addons/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/oikmahiipjniocckomdccmplodldodja?hl=zh-CN) | 划词翻译 |
+| <img src="images/沉浸式翻译.ico" width="16" heigth="16"></img> [沉浸式翻译](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-pdf%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) | 沉浸式翻译，提供中英文对照 |
+| <img src="images/划词翻译.ico" width="16" heigth="16"></img> [划词翻译](https://microsoftedge.microsoft.com/addons/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/oikmahiipjniocckomdccmplodldodja?hl=zh-CN) | 划词翻译，可设置独立窗口 |
 | <img src="images/adblockplus.ico" width="16" heigth="16"></img> [Adblock Plus](https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh?hl=zh-CN)| 广告拦截器 |
-| <img src="images/SuperCopy.ico" width="16" heigth="16"></img> [超级复制](https://microsoftedge.microsoft.com/addons/detail/supercopy-%E8%B6%85%E7%BA%A7%E5%A4%8D%E5%88%B6/nhiheekdcnmfbapkmpbhmplfddenhjic?hl=zh-CN)| 解除禁止复制 |
+| <img src="images/SuperCopy.ico" width="16" heigth="16"></img> [超级复制](https://microsoftedge.microsoft.com/addons/detail/supercopy-%E8%B6%85%E7%BA%A7%E5%A4%8D%E5%88%B6/nhiheekdcnmfbapkmpbhmplfddenhjic?hl=zh-CN)| 解除网页禁止复制 |
 | <img src="images/bitwarden.ico" width="16" heigth="16"></img> [Bitwarden](https://microsoftedge.microsoft.com/addons/detail/bitwarden-%E5%85%8D%E8%B4%B9%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8/jbkfoedolllekgbhcbcoahefnbanhhlh?hl=zh-CN)|密码管理器|
 | <img src="images/一键切换.ico" width="16" heigth="16"></img> [一键切换](https://microsoftedge.microsoft.com/addons/detail/%E4%B8%80%E9%94%AE%E5%88%87%E6%8D%A2/jijkhdficgnnikdijnkienfnmfbolmpb)|一键切换搜索引擎|
-| <img src="images/octotree.ico" width="16" heigth="16"></img> [Octotree](https://microsoftedge.microsoft.com/addons/detail/octotree-github-code-tr/joagmknfcgpikbadjkaikmnhpjadihjg)|github左侧结构树|
+| <img src="images/octotree.ico" width="16" heigth="16"></img> [Octotree](https://microsoftedge.microsoft.com/addons/detail/octotree-github-code-tr/joagmknfcgpikbadjkaikmnhpjadihjg)|生成github项目左侧结构树|
 |<img src="images/scroll-to-top-button.ico" width="16" heigth="16"></img> [Scroll To Top Button](https://microsoftedge.microsoft.com/addons/detail/scroll-to-top-button/dobeplcigkjlbajngcgnndecohjkjmia)|一键直达网页顶部|
-| <img src="images/getfireshot.ico" width="16" heigth="16"></img> [getfireshot](https://microsoftedge.microsoft.com/addons/detail/%E6%8D%95%E6%8D%89%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE-fireshot%E7%9A%84/fcbmiimfkmkkkffjlopcpdlgclncnknm)|网页截图|
+| <img src="images/getfireshot.ico" width="16" heigth="16"></img> [getFireshot](https://microsoftedge.microsoft.com/addons/detail/%E6%8D%95%E6%8D%89%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE-fireshot%E7%9A%84/fcbmiimfkmkkkffjlopcpdlgclncnknm)|网页截图|
 | <img src="images/音量控制.ico" width="16" heigth="16"></img> [音量控制](https://microsoftedge.microsoft.com/addons/detail/%E9%9F%B3%E9%87%8F%E6%8E%A7%E5%88%B6/kpkidbhdljfmeblnolabgikdmfefgbmc)|网页音量控制|
