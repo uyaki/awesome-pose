@@ -41,58 +41,58 @@ Amazing tools, websites, links, apps, software
 
 ## software
 
-| Software  | Function  |  <img src="images/mac.svg" width="14" heigth="14"></img>  | <img src="images/win.svg" width="14" heigth="14"></img> |
+| Software  | Function  |  <img src="images/mac.svg" width="16" heigth="16"></img>  | <img src="images/win.svg" width="16" heigth="16"></img> |
 |---|---|:---:|:---:|
-| <img src="images/bitwarden.ico" width="14" heigth="14"></img> [Bitwarden](https://bitwarden.com/) | 密码管理 |✅|✅|
-| <img src="images/7z.ico" width="14" heigth="14"></img> [7-zip](https://www.7-zip.org/) | 解压工具 |✅|✅|
-| <img src="images/Snipaste.ico" width="14" heigth="14"></img> [Snipaste](https://www.snipaste.com/)| 截图 |✅|✅|
-|<img src="images/PicGo.ico" width="14" heigth="14"></img> [PicGo](https://github.com/Molunerfinn/PicGo) | 图床 |✅|✅|
-| <img src="images/Snapdrop.ico" width="14" heigth="14"></img>  [Snapdrop](https://github.com/RobinLinus/snapdrop) | 跨平台文件互传，可纯网页使用 |✅|✅|
-| <img src="images/KDEconnect.ico" width="14" heigth="14"></img>  [KDE Connect](https://kdeconnect.kde.org/download.html) | 跨平台文件互传、剪切板共享，需要客户端 |✅|✅|
-| <img src="images/SwitchHosts.ico" width="14" heigth="14"></img> [SwitchHosts](https://github.com/oldj/SwitchHosts) | Host修改神器 |✅|✅|
-| <img src="images/github.ico" width="14" heigth="14"></img> [GitHub520](https://github.com/521xueweihan/GitHub520) | Github最新的 hosts 更新订阅 |✅|✅|
-| <img src="images/drawio.ico" width="14" heigth="14"></img> [Drawio-desktop](https://github.com/jgraph/drawio-desktop) | drowio桌面版 |✅|✅|
-| <img src="images/Naotu.ico" width="14" heigth="14"></img> [NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) | 脑图桌面版 |✅|✅|
-| <img src="images/iterm2.ico" width="14" heigth="14"></img> [iterm2](https://iterm2.com/) | 终端神器 |✅|❌|
-| <img src="images/alfred.ico" width="14" heigth="14"></img> [Alfred](https://www.alfredapp.com/) | 效率神器 |✅|❌|
-| <img src="images/appcleaner.ico" width="14" heigth="14"></img> [AppCleaner](https://freemacsoft.net/appcleaner/) | 软件卸载 |✅|❌|
-| <img src="images/keka.ico" width="14" heigth="14"></img> [keka](https://www.keka.io/en/) | 解压工具 |✅|❌|
-| <img src="images/ntfs-mac.ico" width="14" heigth="14"></img> [NTFS-mac](https://www.paragon-software.com/home/ntfs-mac/)| 磁盘管理工具 |✅|❌|
-| <img src="images/rustdesk.ico" width="14" heigth="14"></img> [RustDesk](https://rustdesk.com/)| 远程桌面访问 |✅|❌|
-| <img src="images/karabiner-elements.ico" width="14" heigth="14"></img> [karabiner-elements](https://karabiner-elements.pqrs.org/) | 改键神器 |✅|❌|
-| <img src="images/hidden-bar.ico" width="14" heigth="14"></img> [hidden-bar](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12) | bar隐藏工具 |✅|❌|
-| <img src="images/itsycal.ico" width="14" heigth="14"></img> [itsycal](https://www.mowglii.com/itsycal/) | 日历 |✅|❌|
-| <img src="images/spectacle.ico" width="14" heigth="14"></img> [Spectacle](https://github.com/eczarny/spectacle) | 分屏神器 |✅|❌|
-| <img src="images/SwitchResX.ico" width="14" heigth="14"></img> [SwitchResX](https://www.madrau.com/) | 屏幕分辨率修改工具 |✅|❌|
-| <img src="images/geek.ico" width="14" heigth="14"></img> [GeekUninstaller](https://geekuninstaller.com/download) | 软件卸载 |❌|✅|
-| <img src="images/PixPin.ico" width="14" heigth="14"></img> [PixPin](https://pixpinapp.com/) | 比snipaste强的截图 |❌|✅|
-| <img src="images/screentogif.ico" width="14" heigth="14"></img> [ScreenToGif](https://www.screentogif.com/) |  录屏软件 |❌|✅|
-| <img src="images/CopyQ.ico" width="14" heigth="14"></img> [CopyQ](https://github.com/hluk/CopyQ) | 剪切板增强 |❌|✅|
+| <img src="images/bitwarden.ico" width="16" heigth="16"></img> [Bitwarden](https://bitwarden.com/) | 密码管理 |✅|✅|
+| <img src="images/7z.ico" width="16" heigth="16"></img> [7-zip](https://www.7-zip.org/) | 解压工具 |✅|✅|
+| <img src="images/Snipaste.ico" width="16" heigth="16"></img> [Snipaste](https://www.snipaste.com/)| 截图 |✅|✅|
+|<img src="images/PicGo.ico" width="16" heigth="16"></img> [PicGo](https://github.com/Molunerfinn/PicGo) | 图床 |✅|✅|
+| <img src="images/Snapdrop.ico" width="16" heigth="16"></img>  [Snapdrop](https://github.com/RobinLinus/snapdrop) | 跨平台文件互传，可纯网页使用 |✅|✅|
+| <img src="images/KDEconnect.ico" width="16" heigth="16"></img>  [KDE Connect](https://kdeconnect.kde.org/download.html) | 跨平台文件互传、剪切板共享，需要客户端 |✅|✅|
+| <img src="images/SwitchHosts.ico" width="16" heigth="16"></img> [SwitchHosts](https://github.com/oldj/SwitchHosts) | Host修改神器 |✅|✅|
+| <img src="images/github.ico" width="16" heigth="16"></img> [GitHub520](https://github.com/521xueweihan/GitHub520) | Github最新的 hosts 更新订阅 |✅|✅|
+| <img src="images/drawio.ico" width="16" heigth="16"></img> [Drawio-desktop](https://github.com/jgraph/drawio-desktop) | drowio桌面版 |✅|✅|
+| <img src="images/Naotu.ico" width="16" heigth="16"></img> [NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) | 脑图桌面版 |✅|✅|
+| <img src="images/iterm2.ico" width="16" heigth="16"></img> [iterm2](https://iterm2.com/) | 终端神器 |✅|❌|
+| <img src="images/alfred.ico" width="16" heigth="16"></img> [Alfred](https://www.alfredapp.com/) | 效率神器 |✅|❌|
+| <img src="images/appcleaner.ico" width="16" heigth="16"></img> [AppCleaner](https://freemacsoft.net/appcleaner/) | 软件卸载 |✅|❌|
+| <img src="images/keka.ico" width="16" heigth="16"></img> [keka](https://www.keka.io/en/) | 解压工具 |✅|❌|
+| <img src="images/ntfs-mac.ico" width="16" heigth="16"></img> [NTFS-mac](https://www.paragon-software.com/home/ntfs-mac/)| 磁盘管理工具 |✅|❌|
+| <img src="images/rustdesk.ico" width="16" heigth="16"></img> [RustDesk](https://rustdesk.com/)| 远程桌面访问 |✅|❌|
+| <img src="images/karabiner-elements.ico" width="16" heigth="16"></img> [karabiner-elements](https://karabiner-elements.pqrs.org/) | 改键神器 |✅|❌|
+| <img src="images/hidden-bar.ico" width="16" heigth="16"></img> [hidden-bar](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12) | bar隐藏工具 |✅|❌|
+| <img src="images/itsycal.ico" width="16" heigth="16"></img> [itsycal](https://www.mowglii.com/itsycal/) | 日历 |✅|❌|
+| <img src="images/spectacle.ico" width="16" heigth="16"></img> [Spectacle](https://github.com/eczarny/spectacle) | 分屏神器 |✅|❌|
+| <img src="images/SwitchResX.ico" width="16" heigth="16"></img> [SwitchResX](https://www.madrau.com/) | 屏幕分辨率修改工具 |✅|❌|
+| <img src="images/geek.ico" width="16" heigth="16"></img> [GeekUninstaller](https://geekuninstaller.com/download) | 软件卸载 |❌|✅|
+| <img src="images/PixPin.ico" width="16" heigth="16"></img> [PixPin](https://pixpinapp.com/) | 比snipaste强的截图 |❌|✅|
+| <img src="images/screentogif.ico" width="16" heigth="16"></img> [ScreenToGif](https://www.screentogif.com/) |  录屏软件 |❌|✅|
+| <img src="images/CopyQ.ico" width="16" heigth="16"></img> [CopyQ](https://github.com/hluk/CopyQ) | 剪切板增强 |❌|✅|
 | [EarTrumpet](https://eartrumpet.app/) | 独立音量调整 |❌|✅|
-| <img src="images/twinkletray.ico" width="14" heigth="14"></img> [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | 屏幕亮度调整 |❌|✅|
-| <img src="images/optimizer.ico" width="14" heigth="14"></img> [Optimizer](https://github.com/hellzerg/optimizer) | 电脑系统优化神器 |❌|✅|
-| <img src="images/RAMMap.ico" width="14" heigth="14"></img> [RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) | 关闭多余内存占用 |❌|✅|
+| <img src="images/twinkletray.ico" width="16" heigth="16"></img> [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | 屏幕亮度调整 |❌|✅|
+| <img src="images/optimizer.ico" width="16" heigth="16"></img> [Optimizer](https://github.com/hellzerg/optimizer) | 电脑系统优化神器 |❌|✅|
+| <img src="images/RAMMap.ico" width="16" heigth="16"></img> [RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) | 关闭多余内存占用 |❌|✅|
 
 > 注意： snapdrop 本地部署时，`docker-compose up -d` 如遇到 `exec /mnt/openssl/create.sh: no such file or directory` 错误，可能是`docker/openssl/create.sh` 克隆时，行结尾变成CRLF的问题，行结尾从CRLF改为LF即可成功
 
 ## command line tools
 | Tool  | Function  |
 |---|---|
-| <img src="images/fishshell.ico" width="14" heigth="14"></img> [Fish](https://fishshell.com/) | shell |
-| <img src="images/github.ico" width="14" heigth="14"></img> [Autojump](https://github.com/wting/autojump) | 快速跳转 |
-| <img src="images/tmux.ico" width="14" heigth="14"></img> [tmux](https://github.com/tmux/tmux)| 窗口管理 |
-| <img src="images/gohugo.ico" width="14" heigth="14"></img> [Hugo](https://gohugo.io/)| blog建站 |
+| <img src="images/fishshell.ico" width="16" heigth="16"></img> [Fish](https://fishshell.com/) | shell |
+| <img src="images/github.ico" width="16" heigth="16"></img> [Autojump](https://github.com/wting/autojump) | 快速跳转 |
+| <img src="images/tmux.ico" width="16" heigth="16"></img> [tmux](https://github.com/tmux/tmux)| 窗口管理 |
+| <img src="images/gohugo.ico" width="16" heigth="16"></img> [Hugo](https://gohugo.io/)| blog建站 |
 
 ## Edge Extensions
 | Extensions  | Function  |
 |---|---|
-| <img src="images/沉浸式翻译.ico" width="14" heigth="14"></img> [沉浸式翻译](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-pdf%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) | 沉浸式翻译 |
-| <img src="images/划词翻译.ico" width="14" heigth="14"></img> [划词翻译](https://microsoftedge.microsoft.com/addons/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/oikmahiipjniocckomdccmplodldodja?hl=zh-CN) | 划词翻译 |
-| <img src="images/adblockplus.ico" width="14" heigth="14"></img> [Adblock Plus](https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh?hl=zh-CN)| 广告拦截器 |
-| <img src="images/SuperCopy.ico" width="14" heigth="14"></img> [超级复制](https://microsoftedge.microsoft.com/addons/detail/supercopy-%E8%B6%85%E7%BA%A7%E5%A4%8D%E5%88%B6/nhiheekdcnmfbapkmpbhmplfddenhjic?hl=zh-CN)| 解除禁止复制 |
-| <img src="images/bitwarden.ico" width="14" heigth="14"></img> [Bitwarden](https://microsoftedge.microsoft.com/addons/detail/bitwarden-%E5%85%8D%E8%B4%B9%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8/jbkfoedolllekgbhcbcoahefnbanhhlh?hl=zh-CN)|密码管理器|
-| <img src="images/一键切换.ico" width="14" heigth="14"></img> [一键切换](https://microsoftedge.microsoft.com/addons/detail/%E4%B8%80%E9%94%AE%E5%88%87%E6%8D%A2/jijkhdficgnnikdijnkienfnmfbolmpb)|一键切换搜索引擎|
-| <img src="images/octotree.ico" width="14" heigth="14"></img> [Octotree](https://microsoftedge.microsoft.com/addons/detail/octotree-github-code-tr/joagmknfcgpikbadjkaikmnhpjadihjg)|github左侧结构树|
-|<img src="images/scroll-to-top-button.ico" width="14" heigth="14"></img> [Scroll To Top Button](https://microsoftedge.microsoft.com/addons/detail/scroll-to-top-button/dobeplcigkjlbajngcgnndecohjkjmia)|一键直达网页顶部|
-| <img src="images/getfireshot.ico" width="14" heigth="14"></img> [getfireshot](https://microsoftedge.microsoft.com/addons/detail/%E6%8D%95%E6%8D%89%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE-fireshot%E7%9A%84/fcbmiimfkmkkkffjlopcpdlgclncnknm)|网页截图|
-| <img src="images/音量控制.ico" width="14" heigth="14"></img> [音量控制](https://microsoftedge.microsoft.com/addons/detail/%E9%9F%B3%E9%87%8F%E6%8E%A7%E5%88%B6/kpkidbhdljfmeblnolabgikdmfefgbmc)|网页音量控制|
+| <img src="images/沉浸式翻译.ico" width="16" heigth="16"></img> [沉浸式翻译](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-pdf%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) | 沉浸式翻译 |
+| <img src="images/划词翻译.ico" width="16" heigth="16"></img> [划词翻译](https://microsoftedge.microsoft.com/addons/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/oikmahiipjniocckomdccmplodldodja?hl=zh-CN) | 划词翻译 |
+| <img src="images/adblockplus.ico" width="16" heigth="16"></img> [Adblock Plus](https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh?hl=zh-CN)| 广告拦截器 |
+| <img src="images/SuperCopy.ico" width="16" heigth="16"></img> [超级复制](https://microsoftedge.microsoft.com/addons/detail/supercopy-%E8%B6%85%E7%BA%A7%E5%A4%8D%E5%88%B6/nhiheekdcnmfbapkmpbhmplfddenhjic?hl=zh-CN)| 解除禁止复制 |
+| <img src="images/bitwarden.ico" width="16" heigth="16"></img> [Bitwarden](https://microsoftedge.microsoft.com/addons/detail/bitwarden-%E5%85%8D%E8%B4%B9%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8/jbkfoedolllekgbhcbcoahefnbanhhlh?hl=zh-CN)|密码管理器|
+| <img src="images/一键切换.ico" width="16" heigth="16"></img> [一键切换](https://microsoftedge.microsoft.com/addons/detail/%E4%B8%80%E9%94%AE%E5%88%87%E6%8D%A2/jijkhdficgnnikdijnkienfnmfbolmpb)|一键切换搜索引擎|
+| <img src="images/octotree.ico" width="16" heigth="16"></img> [Octotree](https://microsoftedge.microsoft.com/addons/detail/octotree-github-code-tr/joagmknfcgpikbadjkaikmnhpjadihjg)|github左侧结构树|
+|<img src="images/scroll-to-top-button.ico" width="16" heigth="16"></img> [Scroll To Top Button](https://microsoftedge.microsoft.com/addons/detail/scroll-to-top-button/dobeplcigkjlbajngcgnndecohjkjmia)|一键直达网页顶部|
+| <img src="images/getfireshot.ico" width="16" heigth="16"></img> [getfireshot](https://microsoftedge.microsoft.com/addons/detail/%E6%8D%95%E6%8D%89%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE-fireshot%E7%9A%84/fcbmiimfkmkkkffjlopcpdlgclncnknm)|网页截图|
+| <img src="images/音量控制.ico" width="16" heigth="16"></img> [音量控制](https://microsoftedge.microsoft.com/addons/detail/%E9%9F%B3%E9%87%8F%E6%8E%A7%E5%88%B6/kpkidbhdljfmeblnolabgikdmfefgbmc)|网页音量控制|
