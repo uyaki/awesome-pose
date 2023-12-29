@@ -1,13 +1,6 @@
 # awesome-pose
 Amazing tools, websites, links, apps, software
 
-- [awesome-pose](#awesome-pose)
-  - [website](#website)
-  - [tools](#tools)
-  - [software](#software)
-  - [command line tools](#command-line-tools)
-
-
 ## website
 
 | Function | Website  | Other|
@@ -48,16 +41,17 @@ Amazing tools, websites, links, apps, software
 
 ## software
 
-| Software  | Function  |   | <img src="images/win.svg" width="13" heigth="13"></img> |
+| Software  | Function  |  <img src="images/mac.svg" width="13" heigth="13"></img>  | <img src="images/win.svg" width="13" heigth="13"></img> |
 |---|---|:---:|:---:|
-| [bitwarden](https://bitwarden.com/) | 密码管理 |✅|✅|
-| [7-zip](https://www.7-zip.org/) | 解压工具 |✅|✅|
+| <img src="images/bitwarden.svg" width="13" heigth="13"></img> [bitwarden](https://bitwarden.com/) | 密码管理 |✅|✅|
+| <img src="images/7z.svg" width="13" heigth="13"></img> [7-zip](https://www.7-zip.org/) | 解压工具 |✅|✅|
 | [snipaste](https://www.snipaste.com/)| 截图 |✅|✅|
 | [PicGo](https://github.com/Molunerfinn/PicGo) | 图床 |✅|✅|
-| [snapdrop](https://github.com/RobinLinus/snapdrop) | 跨平台文件互传 |✅|✅|
+| [snapdrop](https://github.com/RobinLinus/snapdrop) | 跨平台文件互传，可纯网页使用 |✅|✅|
+| [kde connect](https://kdeconnect.kde.org/download.html) | 跨平台文件互传、剪切板共享，需要客户端 |✅|✅|
 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | Host修改神器 |✅|✅|
 | [GitHub520](https://github.com/521xueweihan/GitHub520) | Github最新的 hosts 更新订阅 |✅|✅|
-| [drawio-desktop](https://github.com/jgraph/drawio-desktop) | drowio桌面版 |✅|✅|
+| <img src="images/drawio.ico" width="13" heigth="13"></img> [drawio-desktop](https://github.com/jgraph/drawio-desktop) | drowio桌面版 |✅|✅|
 | [NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) | 脑图桌面版 |✅|✅|
 | [iterm2](https://iterm2.com/) | 终端神器 |✅|❌|
 | [alfred](https://www.alfredapp.com/) | 效率神器 |✅|❌|
