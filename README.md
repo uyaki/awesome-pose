@@ -41,37 +41,37 @@ Amazing tools, websites, links, apps, software
 
 ## software
 
-| Software  | Function  |  <img src="images/mac.svg" width="13" heigth="13"></img>  | <img src="images/win.svg" width="13" heigth="13"></img> |
+| Software  | Function  |  <img src="images/mac.svg" width="14" heigth="14"></img>  | <img src="images/win.svg" width="14" heigth="14"></img> |
 |---|---|:---:|:---:|
-| <img src="images/bitwarden.svg" width="13" heigth="13"></img> [bitwarden](https://bitwarden.com/) | 密码管理 |✅|✅|
-| <img src="images/7z.svg" width="13" heigth="13"></img> [7-zip](https://www.7-zip.org/) | 解压工具 |✅|✅|
-| [snipaste](https://www.snipaste.com/)| 截图 |✅|✅|
-| [PicGo](https://github.com/Molunerfinn/PicGo) | 图床 |✅|✅|
-| [snapdrop](https://github.com/RobinLinus/snapdrop) | 跨平台文件互传，可纯网页使用 |✅|✅|
-| [kde connect](https://kdeconnect.kde.org/download.html) | 跨平台文件互传、剪切板共享，需要客户端 |✅|✅|
-| [SwitchHosts](https://github.com/oldj/SwitchHosts) | Host修改神器 |✅|✅|
+| <img src="images/bitwarden.ico" width="14" heigth="14"></img> [bitwarden](https://bitwarden.com/) | 密码管理 |✅|✅|
+| <img src="images/7z.ico" width="14" heigth="14"></img> [7-zip](https://www.7-zip.org/) | 解压工具 |✅|✅|
+| <img src="images/Snipaste.ico" width="14" heigth="14"></img> [snipaste](https://www.snipaste.com/)| 截图 |✅|✅|
+|<img src="images/PicGo.ico" width="14" heigth="14"></img> [PicGo](https://github.com/Molunerfinn/PicGo) | 图床 |✅|✅|
+| <img src="images/Snapdrop.ico" width="14" heigth="14"></img>  [snapdrop](https://github.com/RobinLinus/snapdrop) | 跨平台文件互传，可纯网页使用 |✅|✅|
+| <img src="images/KDEconnect.ico" width="14" heigth="14"></img>  [kde connect](https://kdeconnect.kde.org/download.html) | 跨平台文件互传、剪切板共享，需要客户端 |✅|✅|
+| <img src="images/SwitchHosts.ico" width="14" heigth="14"></img> [SwitchHosts](https://github.com/oldj/SwitchHosts) | Host修改神器 |✅|✅|
 | [GitHub520](https://github.com/521xueweihan/GitHub520) | Github最新的 hosts 更新订阅 |✅|✅|
 | <img src="images/drawio.ico" width="14" heigth="14"></img> [drawio-desktop](https://github.com/jgraph/drawio-desktop) | drowio桌面版 |✅|✅|
-| [NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) | 脑图桌面版 |✅|✅|
-| [iterm2](https://iterm2.com/) | 终端神器 |✅|❌|
-| [alfred](https://www.alfredapp.com/) | 效率神器 |✅|❌|
-| [appcleaner](https://freemacsoft.net/appcleaner/) | 软件卸载 |✅|❌|
-| [keka](https://www.keka.io/en/) | 解压工具 |✅|❌|
-| [ntfs-mac](https://www.paragon-software.com/home/ntfs-mac/)| 磁盘管理工具 |✅|❌|
-| [rustdesk](https://rustdesk.com/)| 远程桌面访问 |✅|❌|
-| [karabiner-elements](https://karabiner-elements.pqrs.org/) | 改键神器 |✅|❌|
-| [hidden-bar](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12) | bar隐藏工具 |✅|❌|
-| [itsycal](https://www.mowglii.com/itsycal/) | 日历 |✅|❌|
-| [spectacle](https://github.com/eczarny/spectacle) | 分屏神器 |✅|❌|
-| [switchresx](https://www.madrau.com/) | 屏幕分辨率修改工具 |✅|❌|
-| [geekuninstaller](https://geekuninstaller.com/download) | 软件卸载 |❌|✅|
-| [pixpinapp](https://pixpinapp.com/) | 比snipaste强的截图 |❌|✅|
-| [screentogif](https://www.screentogif.com/) |  录屏软件 |❌|✅|
-| [CopyQ](https://github.com/hluk/CopyQ) | 剪切板增强 |❌|✅|
+| <img src="images/Naotu.ico" width="14" heigth="14"></img> [NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) | 脑图桌面版 |✅|✅|
+| <img src="images/iterm2.ico" width="14" heigth="14"></img> [iterm2](https://iterm2.com/) | 终端神器 |✅|❌|
+| <img src="images/alfred.ico" width="14" heigth="14"></img> [alfred](https://www.alfredapp.com/) | 效率神器 |✅|❌|
+| <img src="images/appcleaner.ico" width="14" heigth="14"></img> [appcleaner](https://freemacsoft.net/appcleaner/) | 软件卸载 |✅|❌|
+| <img src="images/keka.ico" width="14" heigth="14"></img> [keka](https://www.keka.io/en/) | 解压工具 |✅|❌|
+| <img src="images/ntfs-mac.ico" width="14" heigth="14"></img> [ntfs-mac](https://www.paragon-software.com/home/ntfs-mac/)| 磁盘管理工具 |✅|❌|
+| <img src="images/rustdesk.ico" width="14" heigth="14"></img> [rustdesk](https://rustdesk.com/)| 远程桌面访问 |✅|❌|
+| <img src="images/karabiner-elements.ico" width="14" heigth="14"></img> [karabiner-elements](https://karabiner-elements.pqrs.org/) | 改键神器 |✅|❌|
+| <img src="images/hidden-bar.ico" width="14" heigth="14"></img> [hidden-bar](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12) | bar隐藏工具 |✅|❌|
+| <img src="images/itsycal.ico" width="14" heigth="14"></img> [itsycal](https://www.mowglii.com/itsycal/) | 日历 |✅|❌|
+| <img src="images/spectacle.ico" width="14" heigth="14"></img> [spectacle](https://github.com/eczarny/spectacle) | 分屏神器 |✅|❌|
+| <img src="images/SwitchResX.ico" width="14" heigth="14"></img> [SwitchResX](https://www.madrau.com/) | 屏幕分辨率修改工具 |✅|❌|
+| <img src="images/geek.ico" width="14" heigth="14"></img> [geekuninstaller](https://geekuninstaller.com/download) | 软件卸载 |❌|✅|
+| <img src="images/PixPin.ico" width="14" heigth="14"></img> [pixpinapp](https://pixpinapp.com/) | 比snipaste强的截图 |❌|✅|
+| <img src="images/screentogif.ico" width="14" heigth="14"></img> [screentogif](https://www.screentogif.com/) |  录屏软件 |❌|✅|
+| <img src="images/CopyQ.ico" width="14" heigth="14"></img> [CopyQ](https://github.com/hluk/CopyQ) | 剪切板增强 |❌|✅|
 | [EarTrumpet](https://eartrumpet.app/) | 独立音量调整 |❌|✅|
-| [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | 屏幕亮度调整 |❌|✅|
-| [hellzerg/optimizer](https://github.com/hellzerg/optimizer) | 电脑系统优化神器 |❌|✅|
-| [RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) | 关闭多余内存占用 |❌|✅|
+| <img src="images/twinkletray.ico" width="14" heigth="14"></img> [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | 屏幕亮度调整 |❌|✅|
+| <img src="images/optimizer.ico" width="14" heigth="14"></img> [hellzerg/optimizer](https://github.com/hellzerg/optimizer) | 电脑系统优化神器 |❌|✅|
+| <img src="images/RAMMap.ico" width="14" heigth="14"></img> [RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) | 关闭多余内存占用 |❌|✅|
 
 > 注意： snapdrop 本地部署时，`docker-compose up -d` 如遇到 `exec /mnt/openssl/create.sh: no such file or directory` 错误，可能是`docker/openssl/create.sh` 克隆时，行结尾变成CRLF的问题，行结尾从CRLF改为LF即可成功
 
