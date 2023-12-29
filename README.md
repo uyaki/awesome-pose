@@ -51,7 +51,7 @@ Amazing tools, websites, links, apps, software
 | [kde connect](https://kdeconnect.kde.org/download.html) | 跨平台文件互传、剪切板共享，需要客户端 |✅|✅|
 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | Host修改神器 |✅|✅|
 | [GitHub520](https://github.com/521xueweihan/GitHub520) | Github最新的 hosts 更新订阅 |✅|✅|
-| <img src="images/drawio.ico" width="13" heigth="13"></img> [drawio-desktop](https://github.com/jgraph/drawio-desktop) | drowio桌面版 |✅|✅|
+| <img src="images/drawio.ico" width="14" heigth="14"></img> [drawio-desktop](https://github.com/jgraph/drawio-desktop) | drowio桌面版 |✅|✅|
 | [NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) | 脑图桌面版 |✅|✅|
 | [iterm2](https://iterm2.com/) | 终端神器 |✅|❌|
 | [alfred](https://www.alfredapp.com/) | 效率神器 |✅|❌|
