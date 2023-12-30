@@ -107,3 +107,7 @@ Amazing tools, websites, links, apps, software
 [8]: https://microsoftedge.microsoft.com/addons/detail/scroll-to-top-button/dobeplcigkjlbajngcgnndecohjkjmia "Scroll To Top Button"
 [9]: https://microsoftedge.microsoft.com/addons/detail/%E6%8D%95%E6%8D%89%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE-fireshot%E7%9A%84/fcbmiimfkmkkkffjlopcpdlgclncnknm "getFireshot"
 [10]: https://microsoftedge.microsoft.com/addons/detail/%E9%9F%B3%E9%87%8F%E6%8E%A7%E5%88%B6/kpkidbhdljfmeblnolabgikdmfefgbmc "音量控制"
+
+## 附录
+
+- [快速获取网页ico的油猴脚本](./script/getWebIco.js)
