@@ -121,6 +121,6 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 [10]: https://microsoftedge.microsoft.com/addons/detail/%E9%9F%B3%E9%87%8F%E6%8E%A7%E5%88%B6/kpkidbhdljfmeblnolabgikdmfefgbmc "音量控制"
 [11]: https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd "篡改猴"
 
-## 📝 附录
+## 📝 Other
 
 - [Grease Tampermonkey script to quickly obtain web page ico](./script/getWebIco.js)
