@@ -1,4 +1,5 @@
 # awesome-pose
+
 ![awesome](https://img.shields.io/badge/awesome-blue?logo=awesomelists&logoColor=%23FC60A8&labelColor=%23000000)
 [![English](https://img.shields.io/badge/English-blue?logo=googletranslate&logoColor=%234285F4&labelColor=f7f7f7)](./README_en.md)
 ![last-commit](https://img.shields.io/github/last-commit/uyaki/awesome-pose/main)
@@ -8,45 +9,10 @@
 此处列出的网站、软件均来源于互联网，请注意不要在这些网站上输入任何个人敏感信息。
 
 🌈 欢迎贡献
+
 - [反馈站点失效](https://github.com/uyaki/awesome-pose/issues/new?assignees=uyaki&labels=&projects=&template=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88.md&title=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88)
 
 如果您发现此项目有用，不要忘记 star 🌟，您的支持是我前进的动力。
-
-## 🌐 网址
-
-### 👨‍💻 开发
-| 网址|功能  | 其他|
-|---|---|:---:|
-|[Jetbrains开源申请](https://www.jetbrains.com/shop/eform/opensource?product=ALL) |Jetbrains开源申请|[教程](jetbrains/opensource.md)|
-|[free-programming-books-zh](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)|github免费书籍|-|
-|[shields.io](https://shields.io/)|github徽标|[教程](https://juejin.cn/post/6844903476498022414)|
-|[simpleIcon](https://simpleicons.org/)|simpleIcon|配合shields使用|
-|[github star](https://github.com/search?q=stars:%3E1&s=stars&type=Repositories)|github star排名|-|
-|[choosealicense](https://choosealicense.com/)|开源协议生成|-|
-|[asciiflow](https://asciiflow.com/#/)|在线流程图|-|
-|1. [jsdelivr](https://www.jsdelivr.com/)<br/>2. [cdnjs](https://cdnjs.com/)<br/>3. [cloudflare](https://www.cloudflare.com/zh-cn/)|cdn|-|
-|[fastthread.io](https://fastthread.io/)|java dump在线解析|-|
-### 🔨 在线工具
-| 网址|功能  | 其他|
-|---|---|:---:|
-|[latex.codecogs](https://latex.codecogs.com/)|latex在线编辑|-|
-|[canvas](https://canvas.apps.chrome/)|chrome画布|-|
-|[voxelize-image](https://pissang.github.io/voxelize-image/)|立体图片|-|
-|[remove](https://www.remove.bg/zh)|在线抠图|-|
-|[tinypng](https://tinypng.com/)|png压缩|-|
-|[soogif](https://www.soogif.com/compress)|git压缩|-|
-|[svg2png](https://svgtopng.com/zh/)|svg转换png|-|
-|1. [ilovepdf](https://www.ilovepdf.com/)<br/>2. [smallpdf](https://smallpdf.com/)|pdf转化|-|
-|[bigjpg](https://bigjpg.com/zh)|AI无损放大|-|
-|[wordart](http://www.wordart.cc/)|词云制作|-|
-
-## 📁 素材
-| 网址|功能  | 其他|
-|---|---|:---:|
-|1. [undraw.co](https://undraw.co/)<br/>2. [freepik](https://www.freepik.com)|矢量素材库|-|
-|[huzheng.org](http://download.huzheng.org/zh_CN/)|中文词典库|-|
-|[crx4chrome](https://www.crx4chrome.com/)|chrome 插件离线下载|-|
-|[unsplash](https://unsplash.com/wallpapers/desktop)|壁纸|-|
 
 ## 💻 软件
 
@@ -87,6 +53,7 @@
 > 注意： snapdrop 本地部署时，`docker-compose up -d` 如遇到 `exec /mnt/openssl/create.sh: no such file or directory` 错误，可能是`docker/openssl/create.sh` 克隆时，行结尾变成CRLF的问题，行结尾从CRLF改为LF即可成功
 
 ## 🧰 命令行工具
+
 | Tool  | 功能  |
 |---|---|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/fishshell.ico" width="16" heigth="16"></img> [Fish](https://fishshell.com/) | shell |
@@ -95,7 +62,8 @@
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/gohugo.ico" width="16" heigth="16"></img> [Hugo](https://gohugo.io/)| blog建站 |
 
 ## 🧩 Edge 扩展
-| 扩展  | 功能  |
+
+| 扩展 | 功能 |
 |---|---|
 |<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/Tampermonkey.ico" width="16" heigth="16"></img>[Tampermonkey][11]|真神·油猴|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/沉浸式翻译.ico" width="16" heigth="16"></img> [沉浸式翻译][1] | 沉浸式翻译，提供中英文对照 |
@@ -109,6 +77,51 @@
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/getfireshot.ico" width="16" heigth="16"></img> [getFireshot][9]|网页截图|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/音量控制.ico" width="16" heigth="16"></img> [音量控制][10]|网页音量控制|
 
+
+## 🌐 网址
+
+### 👨‍💻 开发
+
+| 网址|功能 | 其他|
+|---|---|:---:|
+|[Jetbrains开源申请](https://www.jetbrains.com/shop/eform/opensource?product=ALL) |Jetbrains开源申请|[教程](jetbrains/opensource.md)|
+|[free-programming-books-zh](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)|github免费书籍|-|
+|[shields.io](https://shields.io/)|github徽标|[教程](https://juejin.cn/post/6844903476498022414)|
+|[simpleIcon](https://simpleicons.org/)|simpleIcon|配合shields使用|
+|[github star](https://github.com/search?q=stars:%3E1&s=stars&type=Repositories)|github star排名|-|
+|[choosealicense](https://choosealicense.com/)|开源协议生成|-|
+|[asciiflow](https://asciiflow.com/#/)|在线流程图|-|
+|1. [jsdelivr](https://www.jsdelivr.com/)<br/>2. [cdnjs](https://cdnjs.com/)<br/>3. [cloudflare](https://www.cloudflare.com/zh-cn/)|cdn|-|
+|[fastthread.io](https://fastthread.io/)|java dump在线解析|-|
+
+### 🔨 在线工具
+
+| 网址|功能  | 其他|
+|---|---|:---:|
+|[latex.codecogs](https://latex.codecogs.com/)|latex在线编辑|-|
+|[canvas](https://canvas.apps.chrome/)|chrome画布|-|
+|[voxelize-image](https://pissang.github.io/voxelize-image/)|立体图片|-|
+|[remove](https://www.remove.bg/zh)|在线抠图|-|
+|[tinypng](https://tinypng.com/)|png压缩|-|
+|[soogif](https://www.soogif.com/compress)|git压缩|-|
+|[svg2png](https://svgtopng.com/zh/)|svg转换png|-|
+|1. [ilovepdf](https://www.ilovepdf.com/)<br/>2. [smallpdf](https://smallpdf.com/)|pdf转化|-|
+|[bigjpg](https://bigjpg.com/zh)|AI无损放大|-|
+|[wordart](http://www.wordart.cc/)|词云制作|-|
+
+## 📁 素材
+
+| 网址|功能  | 其他|
+|---|---|:---:|
+|1. [undraw.co](https://undraw.co/)<br/>2. [freepik](https://www.freepik.com)|矢量素材库|-|
+|[huzheng.org](http://download.huzheng.org/zh_CN/)|中文词典库|-|
+|[crx4chrome](https://www.crx4chrome.com/)|chrome 插件离线下载|-|
+|[unsplash](https://unsplash.com/wallpapers/desktop)|壁纸|-|
+
+## 📝 附录
+
+- [快速获取网页ico的油猴脚本](./script/getWebIco.js)
+
 [1]: https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-pdf%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN "沉浸式翻译"
 [2]: https://microsoftedge.microsoft.com/addons/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/oikmahiipjniocckomdccmplodldodja?hl=zh-CN "划词翻译"
 [3]: https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh?hl=zh-CN "Adblock Plus"
@@ -121,6 +134,3 @@
 [10]: https://microsoftedge.microsoft.com/addons/detail/%E9%9F%B3%E9%87%8F%E6%8E%A7%E5%88%B6/kpkidbhdljfmeblnolabgikdmfefgbmc "音量控制"
 [11]: https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd "篡改猴"
 
-## 📝 附录
-
-- [快速获取网页ico的油猴脚本](./script/getWebIco.js)
