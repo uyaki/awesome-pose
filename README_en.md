@@ -60,6 +60,7 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/github.ico" width="16" heigth="16"></img> [Autojump](https://github.com/wting/autojump) | Quick jump |
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/tmux.ico" width="16" heigth="16"></img> [tmux](https://github.com/tmux/tmux)| window management |
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/gohugo.ico" width="16" heigth="16"></img> [Hugo](https://gohugo.io/)| blog website building |
+|[translate-shell](https://github.com/soimort/translate-shell)|translate-shell|
 
 ## 🧩 Edge Extensions
 
