@@ -20,6 +20,7 @@
 |---|---|:---:|:---:|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/bitwarden.ico" width="16" heigth="16"></img> [Bitwarden](https://bitwarden.com/) | 密码管理 |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/7z.ico" width="16" heigth="16"></img> [7-zip](https://www.7-zip.org/) | 解压工具 |✅|✅|
+| <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/PixPin.ico" width="16" heigth="16"></img> [PixPin](https://pixpinapp.com/) | 比snipaste强的截图 |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/Snipaste.ico" width="16" heigth="16"></img> [Snipaste](https://www.snipaste.com/)| 截图 |✅|✅|
 |<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/PicGo.ico" width="16" heigth="16"></img> [PicGo](https://github.com/Molunerfinn/PicGo) | 图床 |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/Snapdrop.ico" width="16" heigth="16"></img>  [Snapdrop](https://github.com/RobinLinus/snapdrop) | 跨平台文件互传，可纯网页使用 |✅|✅|
@@ -42,7 +43,6 @@
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/spectacle.ico" width="16" heigth="16"></img> [Spectacle](https://github.com/eczarny/spectacle) | 分屏神器 |✅|❌|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/SwitchResX.ico" width="16" heigth="16"></img> [SwitchResX](https://www.madrau.com/) | 屏幕分辨率修改工具 |✅|❌|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/geek.ico" width="16" heigth="16"></img> [GeekUninstaller](https://geekuninstaller.com/download) | 软件卸载 |❌|✅|
-| <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/PixPin.ico" width="16" heigth="16"></img> [PixPin](https://pixpinapp.com/) | 比snipaste强的截图 |❌|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/screentogif.ico" width="16" heigth="16"></img> [ScreenToGif](https://www.screentogif.com/) |  录屏软件 |❌|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/CopyQ.ico" width="16" heigth="16"></img> [CopyQ](https://github.com/hluk/CopyQ) | 剪切板增强 |❌|✅|
 | [EarTrumpet](https://eartrumpet.app/) | 独立音量调整 |❌|✅|

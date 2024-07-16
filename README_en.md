@@ -20,6 +20,7 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 |---|---|:---:|:---:|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/bitwarden.ico" width="16" heigth="16"></img> [Bitwarden](https://bitwarden.com/) |Password management|✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/7z.ico" width="16" heigth="16"></img> [7-zip](https://www.7-zip.org/) |Unzip tool|✅|✅|
+| <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/PixPin.ico" width="16" heigth="16"></img> [PixPin](https://pixpinapp.com/) | A better screenshot tool than snipaste |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/Snipaste.ico" width="16" heigth="16"></img> [Snipaste](https://www.snipaste.com/)|screenshot|✅|✅|
 |<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/PicGo.ico" width="16" heigth="16"></img> [PicGo](https://github.com/Molunerfinn/PicGo) | picture bed |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/Snapdrop.ico" width="16" heigth="16"></img>  [Snapdrop](https://github.com/RobinLinus/snapdrop) |Cross-platform file transfer, can be used purely on web pages|✅|✅|
@@ -42,7 +43,6 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/spectacle.ico" width="16" heigth="16"></img> [Spectacle](https://github.com/eczarny/spectacle) | Split screen artifact |✅|❌|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/SwitchResX.ico" width="16" heigth="16"></img> [SwitchResX](https://www.madrau.com/) | Screen resolution modification tool |✅|❌|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/geek.ico" width="16" heigth="16"></img> [GeekUninstaller](https://geekuninstaller.com/download) | Software uninstaller |❌|✅|
-| <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/PixPin.ico" width="16" heigth="16"></img> [PixPin](https://pixpinapp.com/) | A better screenshot tool than snipaste |❌|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/screentogif.ico" width="16" heigth="16"></img> [ScreenToGif](https://www.screentogif.com/) | Screen recording software |❌|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/CopyQ.ico" width="16" heigth="16"></img> [CopyQ](https://github.com/hluk/CopyQ) | Clipboard enhancement |❌|✅|
 | [EarTrumpet](https://eartrumpet.app/) | Independent volume adjustment |❌|✅|
