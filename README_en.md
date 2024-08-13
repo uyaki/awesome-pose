@@ -48,6 +48,7 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 | [EarTrumpet](https://eartrumpet.app/) | Independent volume adjustment |❌|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/twinkletray.ico" width="16" heigth="16"></img> [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | Screen brightness adjustment |❌|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/optimizer.ico" width="16" heigth="16"></img> [Optimizer](https://github.com/hellzerg/optimizer) | Computer system optimization tool |❌|✅|
+| <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/optimizer.ico" width="16" heigth="16"></img> [Win11Debloat](https://github.com/Raphire/Win11Debloat) | Computer system optimization tool |❌|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/RAMMap.ico" width="16" heigth="16"></img> [RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) | Close excess memory usage |❌|✅|
 
 > NOTE: When deploying snapdrop locally,`docker-compose up -d` If you encounter the error `exec /mnt/openssl/create.sh: no such file or directory`, it may be that when `docker/openssl/create.sh` is cloned, the line ending becomes CRLF. The line ending is changed from CRLF to LF will succeed
