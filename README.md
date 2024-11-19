@@ -18,6 +18,7 @@
 
 | 软件  | 功能  |  <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/mac.svg" width="16" heigth="16"></img>  | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/win.svg" width="16" heigth="16"></img> |
 |---|---|:---:|:---:|
+| <img src="https://masscode.io/logo-64w.png" width="16" heigth="16"></img> [masscode](https://masscode.io/) | 代码片段管理 |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/bitwarden.ico" width="16" heigth="16"></img> [Bitwarden](https://bitwarden.com/) | 密码管理 |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/7z.ico" width="16" heigth="16"></img> [7-zip](https://www.7-zip.org/) | 解压工具 |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/PixPin.ico" width="16" heigth="16"></img> [PixPin](https://pixpinapp.com/) | 比snipaste强的截图 |✅|✅|
@@ -59,6 +60,8 @@
 
 | Tool  | 功能  |
 |---|---|
+| [fastfetch](https://github.com/fastfetch-cli/fastfetch) | 系统信息显示 |
+| [btop](https://github.com/aristocratos/btop) | 资源监控|
 | <img src="https://deeplx.owo.network/logo.svg" width="16" heigth="16"></img>[deeplx](https://deeplx.owo.network/install/) | 翻译API |
 | <img src="https://starship.rs/icon.png" width="16" heigth="16"></img> [starship](https://starship.rs/) | 高颜值终端 |
 | [ngrok](https://ngrok.com/) | 内网穿透 |

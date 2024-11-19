@@ -18,6 +18,7 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 
 |Software|Function|  <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/mac.svg" width="16" heigth="16"></img>  | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/win.svg" width="16" heigth="16"></img> |
 |---|---|:---:|:---:|
+| <img src="https://masscode.io/logo-64w.png" width="16" heigth="16"></img> [masscode](https://masscode.io/) | code snippets manager |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/bitwarden.ico" width="16" heigth="16"></img> [Bitwarden](https://bitwarden.com/) |Password management|✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/7z.ico" width="16" heigth="16"></img> [7-zip](https://www.7-zip.org/) |Unzip tool|✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/PixPin.ico" width="16" heigth="16"></img> [PixPin](https://pixpinapp.com/) | A better screenshot tool than snipaste |✅|✅|
@@ -59,6 +60,8 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 
 |Tool|Function|
 |---|---|
+| [fastfetch](https://github.com/fastfetch-cli/fastfetch) | fetching system information and displaying it prettily |
+| [btop](https://github.com/aristocratos/btop) | A monitor of resources|
 | <img src="https://deeplx.owo.network/logo.svg" width="16" heigth="16"></img>[deeplx](https://deeplx.owo.network/install/) | translate API |
 | <img src="https://starship.rs/icon.png" width="16" heigth="16"></img> [starship](https://starship.rs/) | Terminal beautification |
 | [ngrok](https://ngrok.com/) | Intranet penetration |
