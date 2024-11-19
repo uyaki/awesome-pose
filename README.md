@@ -31,6 +31,8 @@
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/Naotu.ico" width="16" heigth="16"></img> [NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) | 脑图桌面版 |✅|✅|
 |<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/shadowsocks.ico" width="16" heigth="16"></img> shadowsocks|不同的平台实现的版本不一致，需要点击右侧图标下载|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/mac.svg" width="16" heigth="16"></img>](https://github.com/shadowsocks/ShadowsocksX-NG)|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/win.svg" width="16" heigth="16"></img>](https://github.com/shadowsocks/shadowsocks-windows)|
 |<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/clash.ico" width="16" heigth="16"></img> clash|不同的平台实现的版本不一致，需要点击右侧图标下载|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/mac.svg" width="16" heigth="16"></img>](https://clashx.org/clashx-download/)|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/win.svg" width="16" heigth="16"></img>](https://www.clashforwindows.net/)|
+| <img src="https://icemenubar.app/gallery_gen/f90734b4b6fa729a803d1274df1f9446_350x350_fit.png" width="16" height="16"></img> [jordanbaird-ice](https://icemenubar.app/)| bar图标管理 | ✅ | ❌ |
+| [warp](https://www.warp.dev/)| 新一代终端 Ai| ✅ | ❌ |
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/iterm2.ico" width="16" heigth="16"></img> [iterm2](https://iterm2.com/) | 终端神器 |✅|❌|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/alfred.ico" width="16" heigth="16"></img> [Alfred](https://www.alfredapp.com/) | 效率神器 |✅|❌|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/appcleaner.ico" width="16" heigth="16"></img> [AppCleaner](https://freemacsoft.net/appcleaner/) | 软件卸载 |✅|❌|
@@ -57,6 +59,9 @@
 
 | Tool  | 功能  |
 |---|---|
+| <img src="https://deeplx.owo.network/logo.svg" width="16" heigth="16"></img>[deeplx](https://deeplx.owo.network/install/) | 翻译API |
+| <img src="https://starship.rs/icon.png" width="16" heigth="16"></img> [starship](https://starship.rs/) | 高颜值终端 |
+| [ngrok](https://ngrok.com/) | 内网穿透 |
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/fishshell.ico" width="16" heigth="16"></img> [Fish](https://fishshell.com/) | shell |
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/github.ico" width="16" heigth="16"></img> [Autojump](https://github.com/wting/autojump) | 快速跳转 |
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/tmux.ico" width="16" heigth="16"></img> [tmux](https://github.com/tmux/tmux)| 窗口管理 |
@@ -115,6 +120,7 @@
 
 | 网址|功能  | 其他|
 |---|---|:---:|
+|[z-library](https://z-library.sk/)| 找书 | 找不到wiki看新网址 |
 |1. [undraw.co](https://undraw.co/)<br/>2. [freepik](https://www.freepik.com)|矢量素材库|-|
 |[huzheng.org](http://download.huzheng.org/zh_CN/)|中文词典库|-|
 |[crx4chrome](https://www.crx4chrome.com/)|chrome 插件离线下载|-|

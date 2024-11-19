@@ -31,6 +31,8 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/Naotu.ico" width="16" heigth="16"></img> [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) | DesktopNaotu |✅|✅|
 |<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/shadowsocks.ico" width="16" heigth="16"></img> shadowsocks|The versions implemented by different platforms are inconsistent. You need to click the icon on the right to download.|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/mac.svg" width="16" heigth="16"></img>](https://github.com/shadowsocks/ShadowsocksX-NG)|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/win.svg" width="16" heigth="16"></img>](https://github.com/shadowsocks/shadowsocks-windows)|
 |<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/clash.ico" width="16" heigth="16"></img> clash|The versions implemented by different platforms are inconsistent. You need to click the icon on the right to download.|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/mac.svg" width="16" heigth="16"></img>](https://clashx.org/clashx-download/)|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/win.svg" width="16" heigth="16"></img>](https://www.clashforwindows.net/)|
+| <img src="https://icemenubar.app/gallery_gen/f90734b4b6fa729a803d1274df1f9446_350x350_fit.png" width="16" height="16"></img> [jordanbaird-ice](https://icemenubar.app/)| bar icon manager | ✅ | ❌ |
+| [warp](https://www.warp.dev/)| Terminal + Ai| ✅ | ❌ |
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/iterm2.ico" width="16" heigth="16"></img> [iterm2](https://iterm2.com/) | Terminal artifact |✅|❌|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/alfred.ico" width="16" heigth="16"></img> [Alfred](https://www.alfredapp.com/) | Efficiency artifact |✅|❌|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/appcleaner.ico" width="16" heigth="16"></img> [AppCleaner](https://freemacsoft.net/appcleaner/) | Software uninstaller |✅|❌|
@@ -57,6 +59,9 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 
 |Tool|Function|
 |---|---|
+| <img src="https://deeplx.owo.network/logo.svg" width="16" heigth="16"></img>[deeplx](https://deeplx.owo.network/install/) | translate API |
+| <img src="https://starship.rs/icon.png" width="16" heigth="16"></img> [starship](https://starship.rs/) | Terminal beautification |
+| [ngrok](https://ngrok.com/) | Intranet penetration |
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/fishshell.ico" width="16" heigth="16"></img> [Fish](https://fishshell.com/) | shell |
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/github.ico" width="16" heigth="16"></img> [Autojump](https://github.com/wting/autojump) | Quick jump |
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/tmux.ico" width="16" heigth="16"></img> [tmux](https://github.com/tmux/tmux)| window management |
@@ -114,6 +119,7 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 
 |Website|Function|Other|
 |---|---|:---:|
+|[z-library](https://z-library.sk/)| find books | wiki |
 |1. [undraw.co](https://undraw.co/)<br/>2. [freepik](https://www.freepik.com)|Vector material library|-|
 |[huzheng.org](http://download.huzheng.org/zh_CN/)|Chinese dictionary library|-|
 |[crx4chrome](https://www.crx4chrome.com/)|chrome Plug-in offline download|-|
