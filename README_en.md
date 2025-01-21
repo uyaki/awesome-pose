@@ -60,6 +60,7 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 
 |Tool|Function|
 |---|---|
+| [caddy](https://github.com/caddyserver/caddy)| nginx by golang |
 | [fastfetch](https://github.com/fastfetch-cli/fastfetch) | fetching system information and displaying it prettily |
 | [btop](https://github.com/aristocratos/btop) | A monitor of resources|
 | <img src="https://deeplx.owo.network/logo.svg" width="16" heigth="16"></img>[deeplx](https://deeplx.owo.network/install/) | translate API |

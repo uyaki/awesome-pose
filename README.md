@@ -60,6 +60,7 @@
 
 | Tool  | 功能  |
 |---|---|
+| [caddy](https://github.com/caddyserver/caddy)| go版本nginx |
 | [fastfetch](https://github.com/fastfetch-cli/fastfetch) | 系统信息显示 |
 | [btop](https://github.com/aristocratos/btop) | 资源监控|
 | <img src="https://deeplx.owo.network/logo.svg" width="16" heigth="16"></img>[deeplx](https://deeplx.owo.network/install/) | 翻译API |
