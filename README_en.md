@@ -30,6 +30,7 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/SwitchHosts.ico" width="16" heigth="16"></img> [SwitchHosts](https://github.com/oldj/SwitchHosts) |Host modifier|✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/github.ico" width="16" heigth="16"></img> [GitHub520](https://github.com/521xueweihan/GitHub520) |Github latest hosts update subscription|✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/drawio.ico" width="16" heigth="16"></img> [Drawio-desktop](https://github.com/jgraph/drawio-desktop) | drowio desktop |✅|✅|
+| [wanglin2/mind-map](https://github.com/wanglin2/mind-map) | Simple Mind Map Web |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/Naotu.ico" width="16" heigth="16"></img> [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) | DesktopNaotu |✅|✅|
 |<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/shadowsocks.ico" width="16" heigth="16"></img> shadowsocks|The versions implemented by different platforms are inconsistent. You need to click the icon on the right to download.|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/mac.svg" width="16" heigth="16"></img>](https://github.com/shadowsocks/ShadowsocksX-NG)|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/win.svg" width="16" heigth="16"></img>](https://github.com/shadowsocks/shadowsocks-windows)|
 |<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/clash.ico" width="16" heigth="16"></img> clash|The versions implemented by different platforms are inconsistent. You need to click the icon on the right to download.|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/mac.svg" width="16" heigth="16"></img>](https://clashx.org/clashx-download/)|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/win.svg" width="16" heigth="16"></img>](https://www.clashforwindows.net/)|
@@ -72,6 +73,18 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/tmux.ico" width="16" heigth="16"></img> [tmux](https://github.com/tmux/tmux)| window management |
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/gohugo.ico" width="16" heigth="16"></img> [Hugo](https://gohugo.io/)| blog website building |
 |[translate-shell](https://github.com/soimort/translate-shell)|translate-shell|
+
+## 🌏Open Source Projects
+
+- [go-nv/goenv](https://github.com/go-nv/goenv) Go Multi-Version Management
+- [moovweb/gvm](https://github.com/moovweb/gvm) Go Multi-Version Management
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) markdown js render
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) Icon Library
+- [clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) 😼 Elegantly deploy and use clash/mihomo-based proxy environments
+- [Schniz/fnm](https://github.com/Schniz/fnm) node Multi-version management
+- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master) SSR de-Ad Rules/GFWList Rules/Clash Rule Fragments
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) Quickly boot the USB flash drive
+- [imfile-desktop](https://github.com/imfile-io/imfile-desktop) Download management
 
 ## 🧩 Edge Extensions
 

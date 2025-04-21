@@ -30,6 +30,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/SwitchHosts.ico" width="16" heigth="16"></img> [SwitchHosts](https://github.com/oldj/SwitchHosts) | Host修改神器 |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/github.ico" width="16" heigth="16"></img> [GitHub520](https://github.com/521xueweihan/GitHub520) | Github最新的 hosts 更新订阅 |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/drawio.ico" width="16" heigth="16"></img> [Drawio-desktop](https://github.com/jgraph/drawio-desktop) | drowio桌面版 |✅|✅|
+| [wanglin2/mind-map](https://github.com/wanglin2/mind-map) | 脑图Web版 |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/Naotu.ico" width="16" heigth="16"></img> [NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) | 脑图桌面版 |✅|✅|
 |<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/shadowsocks.ico" width="16" heigth="16"></img> shadowsocks|不同的平台实现的版本不一致，需要点击右侧图标下载|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/mac.svg" width="16" heigth="16"></img>](https://github.com/shadowsocks/ShadowsocksX-NG)|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/win.svg" width="16" heigth="16"></img>](https://github.com/shadowsocks/shadowsocks-windows)|
 |<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/clash.ico" width="16" heigth="16"></img> clash|不同的平台实现的版本不一致，需要点击右侧图标下载|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/mac.svg" width="16" heigth="16"></img>](https://clashx.org/clashx-download/)|[<img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/win.svg" width="16" heigth="16"></img>](https://www.clashforwindows.net/)|
@@ -73,6 +74,18 @@
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/gohugo.ico" width="16" heigth="16"></img> [Hugo](https://gohugo.io/)| blog建站 |
 |[translate-shell](https://github.com/soimort/translate-shell)|命令行翻译工具|
 
+## 🌏开源项目
+
+- [go-nv/goenv](https://github.com/go-nv/goenv) go多版本管理
+- [moovweb/gvm](https://github.com/moovweb/gvm) go多版本管理
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) markdown js渲染
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 图标库 
+- [clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) 😼 优雅地部署、使用基于 clash/mihomo 的代理环境
+- [Schniz/fnm](https://github.com/Schniz/fnm) node 多版本管理
+- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master) SSR去广告规则/GFWList规则/Clash规则碎片
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) 快速启动U盘
+- [imfile-desktop](https://github.com/imfile-io/imfile-desktop) 下载管理
+
 ## 🧩 Edge 扩展
 
 | 扩展 | 功能 |
@@ -105,6 +118,7 @@
 |[asciiflow](https://asciiflow.com/#/)|在线流程图|-|
 |1. [jsdelivr](https://www.jsdelivr.com/)<br/>2. [cdnjs](https://cdnjs.com/)<br/>3. [cloudflare](https://www.cloudflare.com/zh-cn/)|cdn|-|
 |[fastthread.io](https://fastthread.io/)|java dump在线解析|-|
+
 
 ### 🔨 在线工具
 
