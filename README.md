@@ -18,6 +18,7 @@
 
 | 软件  | 功能  |  <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/mac.svg" width="16" heigth="16"></img>  | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/win.svg" width="16" heigth="16"></img> |
 |---|---|:---:|:---:|
+|[frp](https://github.com/fatedier/frp)|内网穿透工具| ✅|✅|
 | <img src="https://masscode.io/logo-64w.png" width="16" heigth="16"></img> [masscode](https://masscode.io/) | 代码片段管理 |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/bitwarden.ico" width="16" heigth="16"></img> [Bitwarden](https://bitwarden.com/) | 密码管理 |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/7z.ico" width="16" heigth="16"></img> [7-zip](https://www.7-zip.org/) | 解压工具 |✅|✅|

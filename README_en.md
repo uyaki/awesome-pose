@@ -18,6 +18,7 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 
 |Software|Function|  <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/mac.svg" width="16" heigth="16"></img>  | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/svg/win.svg" width="16" heigth="16"></img> |
 |---|---|:---:|:---:|
+|[frp](https://github.com/fatedier/frp)|A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.| ✅|✅|
 | <img src="https://masscode.io/logo-64w.png" width="16" heigth="16"></img> [masscode](https://masscode.io/) | code snippets manager |✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/bitwarden.ico" width="16" heigth="16"></img> [Bitwarden](https://bitwarden.com/) |Password management|✅|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/7z.ico" width="16" heigth="16"></img> [7-zip](https://www.7-zip.org/) |Unzip tool|✅|✅|
