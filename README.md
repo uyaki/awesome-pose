@@ -55,6 +55,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/optimizer.ico" width="16" heigth="16"></img> [Optimizer](https://github.com/hellzerg/optimizer) | 电脑系统优化神器 |❌|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/optimizer.ico" width="16" heigth="16"></img> [Win11Debloat](https://github.com/Raphire/Win11Debloat) | 电脑系统优化神器 |❌|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/RAMMap.ico" width="16" heigth="16"></img> [RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) | 关闭多余内存占用 |❌|✅|
+| [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) | 跨平台剪切板 |✅|✅|
 
 > 注意： snapdrop 本地部署时，`docker-compose up -d` 如遇到 `exec /mnt/openssl/create.sh: no such file or directory` 错误，可能是`docker/openssl/create.sh` 克隆时，行结尾变成CRLF的问题，行结尾从CRLF改为LF即可成功
 
@@ -73,6 +74,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/tmux.ico" width="16" heigth="16"></img> [tmux](https://github.com/tmux/tmux)| 窗口管理 |
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/gohugo.ico" width="16" heigth="16"></img> [Hugo](https://gohugo.io/)| blog建站 |
 |[translate-shell](https://github.com/soimort/translate-shell)|命令行翻译工具|
+|[Mole](https://github.com/tw93/Mole)|命令行mac系统优化工具|
 
 ## 🌏开源项目
 
@@ -85,7 +87,10 @@
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master) SSR去广告规则/GFWList规则/Clash规则碎片
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) 快速启动U盘
 - [imfile-desktop](https://github.com/imfile-io/imfile-desktop) 下载管理
-
+- [Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) 图片处理
+- [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) 直播聚合
+- [dani-garcia / vaultwarden](https://github.com/dani-garcia/vaultwarden) Bitwarden 客户端
+- [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) 管理后台开箱即用
 ## 🧩 Edge 扩展
 
 | 扩展 | 功能 |

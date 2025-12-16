@@ -55,6 +55,7 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/optimizer.ico" width="16" heigth="16"></img> [Optimizer](https://github.com/hellzerg/optimizer) | Computer system optimization tool |❌|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/optimizer.ico" width="16" heigth="16"></img> [Win11Debloat](https://github.com/Raphire/Win11Debloat) | Computer system optimization tool |❌|✅|
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/RAMMap.ico" width="16" heigth="16"></img> [RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) | Close excess memory usage |❌|✅|
+| [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) | Cross-platform clipboard |✅|✅|
 
 > NOTE: When deploying snapdrop locally,`docker-compose up -d` If you encounter the error `exec /mnt/openssl/create.sh: no such file or directory`, it may be that when `docker/openssl/create.sh` is cloned, the line ending becomes CRLF. The line ending is changed from CRLF to LF will succeed
 
@@ -73,6 +74,7 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/tmux.ico" width="16" heigth="16"></img> [tmux](https://github.com/tmux/tmux)| window management |
 | <img src="https://cdn.jsdelivr.net/gh/uyaki/pic-cloud/logo/ico/gohugo.ico" width="16" heigth="16"></img> [Hugo](https://gohugo.io/)| blog website building |
 |[translate-shell](https://github.com/soimort/translate-shell)|translate-shell|
+| [Mole](https://github.com/tw93/Mole)|Command Line Mac System Optimization Tool|
 
 ## 🌏Open Source Projects
 
@@ -85,6 +87,11 @@ If you find this project useful, don't forget to star 🌟, your support is my m
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master) SSR de-Ad Rules/GFWList Rules/Clash Rule Fragments
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) Quickly boot the USB flash drive
 - [imfile-desktop](https://github.com/imfile-io/imfile-desktop) Download management
+- [Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) Image processing
+- [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) Live aggregation
+- [dani-garcia / vaultwarden](https://github.com/dani-garcia/vaultwarden) Bitwarden Client
+- [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) Management backend ready to use out of the box
+
 
 ## 🧩 Edge Extensions
 
